@@ -4,6 +4,7 @@ public class Main {
         System.out.println("git test");
         System.out.println("git test2");
         System.out.println("good!");
+        System.out.println("한글 깨짐 테스트 :)");
     }
 
 }
